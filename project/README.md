@@ -10,6 +10,12 @@
 и в только что созданном пене выполнить аналогичную работу. 
 4. Добавить стили для классов так, чтобы отображение контента в браузере соответствовало макету.
 
+## Вспомогательные материалы
+1. [тексты](https://github.com/Irina-64/web-programming-homeworks/blob/main/project/texts.txt) для макета из практического задания
+2. [статья о подключении нестандартных шрифтов](https://htmlacademy.ru/blog/html/fonts-loading)
+3. [статья о роли метатега viewport](https://htmlacademy.ru/blog/html/viewport)
+4. [статья о том, как создавать адаптивные изображения](https://htmlacademy.ru/blog/html/adaptive-srcset)
+5. [ссылка на макеты для выбора](https://drive.google.com/drive/folders/1IMm3t4zcXHBONbNC0SRud-q4lNFz9HGG?usp=sharing). Обратите внимание, что можно выбрать макет, например, в специализированных каналах в телеграмм.
 ---
 Перед выполнением работы прочитайте [инструкцию по работе с codepen](https://github.com/netology-code/guides/blob/master/codepen/).
 1. Перейдите по ссылке, указанной в начале задания
