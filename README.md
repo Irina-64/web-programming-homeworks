@@ -31,8 +31,8 @@
 2.2.2. [Анимирование SVG с помощью SMIL](svg-animation/)  
 
 ## Блок 3. Ускорение верстки. Bootstrap-4, -5, web-конструкторы
-2.3.1. [Ускорение верстки: Bootstrap 5](bootstrap5/)
-2.3.2. [Сайт на Wordpress](WordPress/)
+2.3.1. [Ускорение верстки: Bootstrap 5](bootstrap5/)  
+2.3.2. [Сайт на Wordpress](WordPress/)  
 
 # Модуль 3. Основы web-программирования
 
